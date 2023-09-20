@@ -1,0 +1,14 @@
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.AssemblyInfoInputs.cache
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.AssemblyInfo.cs
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\bin\Debug\net7.0\ap1.exe
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\bin\Debug\net7.0\ap1.deps.json
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\bin\Debug\net7.0\ap1.runtimeconfig.json
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\bin\Debug\net7.0\ap1.dll
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\bin\Debug\net7.0\ap1.pdb
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.dll
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\refint\ap1.dll
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.pdb
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ap1.genruntimeconfig.cache
+C:\Users\joao\Desktop\Laboratorio de Programação\AP_1\ap1\obj\Debug\net7.0\ref\ap1.dll
